@@ -72,6 +72,7 @@
 
 #footerlast p {
     line-height: 0.5cm;
+    font-size: 12px;
 }
 
 .hypelink a {
@@ -81,4 +82,27 @@
 
 .hypelink a:hover {
     color: #9999CC;
+}
+
+#sec2 li {
+    list-style-type: none;
+    display: inline;
+}
+
+#sec2 button {
+    border: solid 2px #004080;
+    background-color: #c1c1df;
+    color: #004080;
+    margin-top: 2px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#sec2 button:hover {
+    background-color: #004080;
+    color: white;
+}
+
+.hypelink li {
+    font-size: 13px;
 }
