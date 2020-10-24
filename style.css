@@ -1,0 +1,84 @@
+#header {
+    padding: 10px;
+    margin-top: 49px;
+    margin-left: 49px;
+    margin-right: 49px;
+    position: relative;
+}
+
+#headerinside {
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+}
+
+#headerinside h1 {
+    font-size: 50px;
+    color: red;
+}
+
+#img1 {
+    position: absolute;
+    left: 170px;
+}
+
+#img2 {
+    position: absolute;
+    top: 0px;
+    right: 170px;
+}
+
+#header a {
+    color: black;
+    font-size: 13px;
+    line-height: 0.4cm;
+}
+
+#header a:hover {
+    color: #9999CC;
+    text-decoration: none;
+}
+
+#head2 {
+    color: #666999;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px #666999;
+    font-size: 30px;
+}
+
+#div2 {
+    height: 40px;
+    border-bottom: black 1px solid;
+    overflow: hidden;
+    position: relative;
+}
+
+#div2 button {
+    background-color: #666999;
+    border: black solid 2px;
+    color: black;
+    font-size: 12px;
+}
+
+#hype {
+    padding-left: 20px;
+    position: absolute;
+    top: 0px;
+    left: 300px;
+    padding-top: 5px;
+    color: #666999;
+}
+
+#footerlast p {
+    line-height: 0.5cm;
+}
+
+.hypelink a {
+    color: #004080;
+    text-decoration: underline;
+}
+
+.hypelink a:hover {
+    color: #9999CC;
+}
